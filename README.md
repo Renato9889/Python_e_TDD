@@ -39,3 +39,5 @@ levados em consideração pelo Pytest;</p>
 
 <p align="justify">Criação de relatórios em formatos diferentes, como HTML e XML.</p>
 
+<img src="https://user-images.githubusercontent.com/38532053/226066655-b7a70537-6045-4bb0-9203-bd830a9c8d0e.png">
+
